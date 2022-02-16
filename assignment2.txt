@@ -2,28 +2,33 @@ step1->Clone the repository at https://github.com/sachinpatil101/hw
 
 step2 ->create personal repository 
 
-step3 ->create participants.md folder
+step3 ->create one folder desktop-"gitassigment"->open git bash->write -> "git init"
 
-step4 ->In participants.md folder write my name
+step4  ->in git bash->write below cmd
+        ->git remote add origin https://github.com/bhakti199921/gitassignmentsecond.git 
 
-step5 ->git add .
+step4 ->create participants.md folder
 
-step6 ->git commit -m "add name"
+step5 ->In participants.md folder write my name
 
-step7 ->git push -u origin master
+step6 ->git add .
 
-step8 ->change has been pushed
+step7 ->git commit -m "add name"
 
-step9 ->Use git log and looked changes
+step8 ->git push -u origin master
 
-step10 ->next copy paste ->code folder->in code folder participants.c file open
+step9 ->change has been pushed
 
-step11 ->update participants.c ->prints my name
+step10 ->Use git log and looked changes
 
-step5 ->git add .
+step11 ->next copy paste ->code folder->in code folder participants.c file open
 
-step5 ->git commit
+step12 ->update participants.c ->prints my name
 
-step6 ->push it
+step13->git add .
+
+step14 ->git commit
+
+step15 ->push it
 
 
