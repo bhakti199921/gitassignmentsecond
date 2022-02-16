@@ -1,0 +1,29 @@
+step1->Clone the repository at https://github.com/sachinpatil101/hw
+
+step2 ->create personal repository 
+
+step3 ->create participants.md folder
+
+step4 ->In participants.md folder write my name
+
+step5 ->git add .
+
+step6 ->git commit -m "add name"
+
+step7 ->git push -u origin master
+
+step8 ->change has been pushed
+
+step9 ->Use git log and looked changes
+
+step10 ->next copy paste ->code folder->in code folder participants.c file open
+
+step11 ->update participants.c ->prints my name
+
+step5 ->git add .
+
+step5 ->git commit
+
+step6 ->push it
+
+
